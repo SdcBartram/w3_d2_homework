@@ -5,7 +5,7 @@ body {
   /* Set the font-family for the entire body to Roboto with a generic family of sans-serif */
   /* Hint: https://developer.mozilla.org/en-US/docs/Web/CSS/font-family */
   color: white;
-  background-color: rgb(31, 24, 44);
+  background-color: rgb(108, 59, 199);
   scroll-behavior: smooth;
 }
 
